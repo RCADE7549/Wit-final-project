@@ -1,7 +1,7 @@
 # Wit-final-project
 Wit final project for design
 
-Runs on python 2.7.10
+Runs on Python 2.7.10
 
 ATTENTION:
 
